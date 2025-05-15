@@ -1,5 +1,5 @@
 # Rectangle
-Implement the Rectangle class. **You should not need to edit the Main class, which is meant to help test your program.**
+Implement the Rectangle class by editing the provided file. **You should not need to edit the Main file, which is meant to help test your program.**
 
 It should have two fields (variables): width and height.
 
