@@ -3,12 +3,13 @@ Implement the Rectangle class by editing the provided file. **You should not nee
 
 It should have two fields (variables): width and height.
 
-It should also have two methods with no parameters:
+It should also have the following methods with no parameters:
 * calculateArea() returns the area calculated from `this.width` and `this.height`
 * calculatePerimeter() returns the perimeter
+* toString() returns a string representation of the rectangle (ex: "4x8 rectangle")
 
 ## Bonus 1: fitsInside()
-Implement a method `public fitsInside(Rectangle otherRect)` method that returns true if the rectangle would fit inside `otherRect`.
+Implement a method `public boolean fitsInside(Rectangle otherRect)` method that returns true if the rectangle would fit inside `otherRect`.
 
 Test the method by uncommenting the code included in Main.
 
